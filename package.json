@@ -1,0 +1,15 @@
+{
+  "name": "salario-proyecto",
+  "version": "1.0.0",
+  "description": "\"parcial 1 Diseño Web\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Gema Rocio Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0"
+  }
+}
